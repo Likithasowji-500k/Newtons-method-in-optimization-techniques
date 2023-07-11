@@ -1,3 +1,4 @@
+![newtons_method output](https://github.com/Likithasowji-500k/Newtons-method-in-optimization-techniques/assets/121708442/41ae1a75-fcfe-4b33-adef-1ecd9b4717fa)
 # Newtons-method-in-optimization-techniques
 import math
 x=[]
